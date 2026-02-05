@@ -1,3 +1,3 @@
 "Hey there! I am using WhatsApp"
 
-                    _- Whatsapp_
+                    - Whatsapp
